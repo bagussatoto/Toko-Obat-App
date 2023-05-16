@@ -1,21 +1,26 @@
 # These are supported funding model platforms
 
-custom: {
-  "Instagram": {
-    "name": "@bagussatoto1",
-    "url": "https://www.instagram.com/p/{code}",
-    "color": "#e1306c",
-    "logo": "instagram.png"
-  },
-  "Facebook": {
-    "name": "bagussatoto1",
-    "url": "https://www.facebook.com/bagussatoto1",
-    "color": "#3b5998",
-    "logo": "facebook.png"
-  },
-  "github": {
-    "name": "bagussatoto1",
-    "url": "https://github.com/bagussatoto",
-    "color": "#24292e",
-    "logo": "github.png"
-  },
+# custom: {
+#   "Instagram": {
+#     "name": "@bagussatoto1",
+#     "url": "https://www.instagram.com/p/{code}",
+#     "color": "#e1306c",
+#     "logo": "instagram.png"
+#   },
+#   "Facebook": {
+#     "name": "bagussatoto1",
+#     "url": "https://www.facebook.com/bagussatoto1",
+#     "color": "#3b5998",
+#     "logo": "facebook.png"
+#   },
+#   "github": {
+#     "name": "bagussatoto1",
+#     "url": "https://github.com/bagussatoto",
+#     "color": "#24292e",
+#     "logo": "github.png"
+#   },
+
+custom: [ "https://saweria.co/bagussatoto1" , "https://www.paypal.com/paypalme/bagussatoto1" , 
+"https://www.buymeacoffee.com/baagussatoto" ]
+
+github: bagussatoto
