@@ -1,9 +1,19 @@
-![Tokon Obat App](public/imgs/readme-logo.png "Toko Obat App")
+<!-- ![Tokon Obat App](public/imgs/readme-logo.png "Toko Obat App") -->
 
-[![Build Status](https://travis-ci.org/nafiesl/grosir-obat.svg?branch=master)](https://travis-ci.org/nafiesl/grosir-obat)
-[![StyleCI](https://styleci.io/repos/87638082/shield?branch=master)](https://styleci.io/repos/87638082)
+<!-- [![Build Status](https://travis-ci.org/nafiesl/grosir-obat.svg?branch=master)](https://travis-ci.org/nafiesl/grosir-obat)
+[![StyleCI](https://styleci.io/repos/87638082/shield?branch=master)](https://styleci.io/repos/87638082) -->
 
-Aplikasi Grosir Obat adalah sebuah sistem kasir (Point of Sales) dan manajemen produk obat yang dibuat menggunakan framework Laravel, dibangun dengan Test-Driven Development.
+
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
+
+<h1 align="center">Aplikasi Toko Obat</h1>
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
+
+Aplikasi Toko Obat adalah sebuah sistem kasir (Point of Sales) dan manajemen produk obat yang dibuat menggunakan framework Laravel, dibangun dengan Test-Driven Development.
 
 <!-- Garis Lurus -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
