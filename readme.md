@@ -5,7 +5,24 @@
 
 Aplikasi Grosir Obat adalah sebuah sistem kasir (Point of Sales) dan manajemen produk obat yang dibuat menggunakan framework Laravel, dibangun dengan Test-Driven Development.
 
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
+
+## 👦🏽 Siapa pembuat aplikasi ini?
+
+| Profile        |  Keterangan                      |
+|----------------|----------------------------------|
+| Nama           | Bagus Budi Satoto                |
+| Jurusan        | S1 - Informatika                 |
+| Kampus         | Universitas Amikom Yogyakarta    |
+
+
 <hr>
+
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
 
 ## Fitur
 
@@ -51,12 +68,14 @@ Catatan:
 
 <hr>
 
-
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
 
 ## Instalasi
 
 ### Spesifikasi
-- PHP ^7.2
+- PHP version 7.2
 - Laravel 6.x
 - Database MySQL atau MariaDB
 - SQlite (untuk `automated testing`)
@@ -64,8 +83,8 @@ Catatan:
 ### Cara Install
 
 1. Clone atau download source code
-    - Para terminal, clone repo `git clone git@github.com:nafiesl/grosir-obat.git`
-    - atau `git clone https://github.com/nafiesl/grosir-obat.git`
+    - Para terminal, clone repo `git clone git@github.com:bagussatoto/Toko-Obat-App.git`
+    - atau `git clone https://github.com/bagussatoto/Toko-Obat-App`
     - Jika tidak menggunakan Git, silakan **Download Zip** dan *extract* pada direktori web server (misal: xampp/htdocs)
 2. `cd obat-app`
 3. `composer install`
@@ -84,18 +103,26 @@ Catatan:
 9. `php artisan serve`
 10. Selesai
 
-### Login Admin
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
+
+## Login Admin
 ```
 Username: admin
 Password: secret
 ```
 
-### Automated Testing
+## Automated Testing
 Aplikasi ini dilengkapi dengan **Testing Laravel**, ingin mencoba? Silakan:
 ```
 vendor/bin/phpunit
 ```
 <hr>
+
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
 
 ## Input Produk dan Satuan
 Untuk mulai menggunakan aplikasi, silakan inputkan **Satuan Produk** terlebih dahulu, misal:
@@ -104,6 +131,10 @@ Untuk mulai menggunakan aplikasi, silakan inputkan **Satuan Produk** terlebih da
 Kemudian inputkan **Produk** agar dapat dimasukkan ke dalam transaksi belanja (Cart)
 
 <hr>
+
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
 
 ## Proses Transksi
 
@@ -135,6 +166,10 @@ Proses Entry transaksi baru:
 
 <hr>
 
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
+
 ## Screenshots
 
 #### Shopping Cart
@@ -154,4 +189,41 @@ Proses Entry transaksi baru:
 
 #### Laporan Penjualan Perbulan
 ![Laporan Bulanan](public/imgs/07-monthly-sales.jpg "Laporan Bulanan")
+
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
+
+## Contac Person
+
+|  Email    |                 
+|-----------|
+| bagusbudi1308@gmail.com |
+
+| WhatsApps |
+|-------|
+| 08988325547 |
+
+
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
+
+## Request Fitur Baru dan Pelaporan Bug
+
+Anda dapat meminta fitur baru maupun melaporkan bug melalui menu **issues** yang sudah disediakan oleh GitHub (lihat menu di atas), posting issues baru dan kita akan berdiskusi disana.
+
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
+
+## Berkontribusi
+
+Siapapun dapat berkontribusi pada proyek ini mulai dari pemrograman, pembuakan buku manual, sampai dengan mengenalkan produk ini kepada mahasiswa 
+untuk belajar agar mengurangi kesenjangan pendidikan teknologi dengan cara membuat postingan issue di repository ini.
+
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
+
 
