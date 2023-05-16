@@ -221,7 +221,7 @@ Proses Entry transaksi baru:
 
 ## Request Fitur Baru dan Pelaporan Bug
 
-Anda dapat meminta fitur baru maupun melaporkan bug melalui menu **issues** yang sudah disediakan oleh GitHub (lihat menu di atas), posting issues baru dan kita akan berdiskusi disana.
+Anda dapat meminta fitur baru maupun melaporkan bug melalui menu [**issues**](https://github.com/bagussatoto/Toko-Obat-App/issues) yang sudah disediakan oleh GitHub (Klik Issues), posting issues baru dan kita akan berdiskusi disana.
 
 <!-- Garis Lurus -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
