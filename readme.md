@@ -194,7 +194,7 @@ Proses Entry transaksi baru:
 #### Daftar Produk
 ![Daftar Produk](public/imgs/04-daftar-produk.jpg "Daftar Produk") -->
 
-#### Laporan Penjualan Pertahun
+#### Halaman Laporan
 ![Laporan Tahunan](public/imgs/06-yearly-sales.jpg "Laporan Tahunan")
 
 <!-- #### Laporan Penjualan Perbulan
