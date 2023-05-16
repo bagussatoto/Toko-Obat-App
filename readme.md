@@ -182,23 +182,23 @@ Proses Entry transaksi baru:
 
 ## Screenshots
 
-#### Shopping Cart
-![Shopping Cart](public/imgs/01-shopping-cart.jpg "Shopping Cart")
+<!-- #### Shopping Cart
+![Shopping Cart](public/imgs/01-shopping-cart.jpg "Shopping Cart") -->
 
-#### Konfirmasi Entry Transaksi
+<!-- #### Konfirmasi Entry Transaksi
 ![Konfirmasi Entry Transaksi](public/imgs/02-konfirmasi-entry-transaksi.jpg "Konfirmasi Entry Transaksi")
 
 #### List Transaksi
 ![List Transaksi](public/imgs/03-list-transaksi.jpg "List Transaksi")
 
 #### Daftar Produk
-![Daftar Produk](public/imgs/04-daftar-produk.jpg "Daftar Produk")
+![Daftar Produk](public/imgs/04-daftar-produk.jpg "Daftar Produk") -->
 
 #### Laporan Penjualan Pertahun
 ![Laporan Tahunan](public/imgs/06-yearly-sales.jpg "Laporan Tahunan")
 
-#### Laporan Penjualan Perbulan
-![Laporan Bulanan](public/imgs/07-monthly-sales.jpg "Laporan Bulanan")
+<!-- #### Laporan Penjualan Perbulan
+![Laporan Bulanan](public/imgs/07-monthly-sales.jpg "Laporan Bulanan") -->
 
 <!-- Garis Lurus -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
